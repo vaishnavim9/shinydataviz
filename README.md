@@ -8,7 +8,7 @@
   ![covid_visualization](https://github.com/vaishnavim9/shinydataviz/blob/main/CovidVaccineVisualization/COVID_Visualization_Example.png?raw=true)
 - **Cancer Prevalence Visualization**
   - Displays prevalence of specific/all cancers by gender
-  ![cancer_prevalence](https://github.com/vaishnavim9/shinydataviz/blob/main/CancerPrevalenceVisualization/Breast_Cancer_Female.png?raw=true)
+  ![cancer_prevalence](https://github.com/vaishnavim9/shinydataviz/blob/main/CancerPrevalenceVisualization/Prev_BreastCancer_Female.png?raw=true)
   ![cancer_prevalence](https://github.com/vaishnavim9/shinydataviz/blob/main/CancerPrevalenceVisualization/AllCancers_Male.png?raw=true)
   
   
