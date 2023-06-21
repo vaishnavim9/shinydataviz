@@ -5,6 +5,7 @@
 #'     DO NOT REMOVE.
 #' @import shiny
 #' @noRd
+print("hi"),
 app_ui <- function(request) {
   tagList(
     # Leave this function for adding external resources
